@@ -9,8 +9,8 @@ No notes
 ## Slide One
 **Objective:** Introduce the formal definition of JavaScript.
 
-Suggested Script
----
+**Suggested Script**
+
 So, what exactly is JavaScript?
 A simple Google search gives us this definition.
 
@@ -32,8 +32,8 @@ Ok, sounds pretty straight forward, but how does JavaScript fit into our website
 ## Slide Two
 **Objective:** Compare the process of creating an interactive website to that of creating an interactive robot.
 
-Suggested Script
----
+**Suggested Script**
+
 To help us visual this concept, let's compare creating an interactive website, to that of creating a robot.
 
 <click> So, just like a website, we first need to build up the structure of a robot. So, it's head and body.
@@ -51,8 +51,8 @@ But as you can see it's not interactive (try dragging robot image).
 ## Slide Three
 **Objective:** Continue interactive website vs interactive robot comparison.
 
-Suggested Script
----
+**Suggested Script**
+
 To make a robot be able to interact with you, you need to program it with a set of instructions.
 
 Similar to a robot, if we want our website to be interactive, we need to give it instructions.
@@ -64,8 +64,8 @@ You can do this with JavaScript!
 ## Slide Four
 **Objective:** Inform students of familiar web applications that use JavaScript.
 
-Suggested Script
----
+**Suggested Script**
+
 Everyday, you probably visit a site that uses JavaScript and don't realize it.
 
 <click> Web applications such as
@@ -76,8 +76,8 @@ Everyday, you probably visit a site that uses JavaScript and don't realize it.
 ## Slide Five
 **Objective:** Expand on familiar web application example by explaining how the Facebook share dialog box uses JavaScript.
 
-Suggested Script
----
+**Suggested Script**
+
 So for example, whenever you
 <click> share an
 <click> article on Facebook, JavaScript is being executed.
@@ -85,8 +85,8 @@ So for example, whenever you
 ## Slide Six
 **Objective:** Provide another familiar example in the form of a lightbox photo gallery.
 
-Suggested Script
----
+**Suggested Script**
+
 Or if you've ever visited a website that had an
 <click> interactive photo gallery, then chances are it is using JavaScript.
 
@@ -95,8 +95,8 @@ Or if you've ever visited a website that had an
 
 Web Whiteboard: [Web Whiteboard](https://awwapp.com/b/u3vvpzrrn/)
 
-Suggested Script
----
+**Suggested Script**
+
 Using the class whiteboard, think of some ways you can make your website more interactive.
 
 ## Slide Eight
@@ -104,8 +104,8 @@ Using the class whiteboard, think of some ways you can make your website more in
 
 Ideally, the instructor would demonstrate this activity live and not use a slide or screenshot.
 
-Suggested Script
----
+**Suggested Script**
+
 The good thing about JavaScript is that we can write a program using the console in our browser.
 
 So, let's jump right into writing our first program.
@@ -121,8 +121,8 @@ Next, click on View, go down to Developer, then click on JavaScript Console.
 
 Ideally, the instructor would demonstrate this activity live and not use a slide or screenshot.
 
-Suggested Script
----
+**Suggested Script**
+
 The console is where we can tell the browser what to do using JavaScript.
 
 I want the browser to display a pop-up message with my favorite quote, so I am going to write this JavaScript command in the console.
